@@ -1,0 +1,15 @@
+{
+  "name": "nodeschool-promise-it-wont-hurt-solutions",
+  "version": "1.0.0",
+  "description": "solutions to nodeschool.io promises workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodeschool",
+    "promise"
+  ],
+  "author": "Paincraft",
+  "license": "ISC"
+}
